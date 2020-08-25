@@ -10,7 +10,7 @@ using namespace std;
 // it only works for positive power
 // also it does not work with decimal power
 // as this will needs a root function
-// and this can be di=one in the future
+// and this can be done in the future
 double power(double num1, int num2) {
 
 	double ans = 1;
